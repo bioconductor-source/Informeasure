@@ -1,7 +1,7 @@
 Package: Informeasure
 Type: Package
 Title: R implementation of information measures
-Version: 1.19.0
+Version: 1.20.0
 Authors@R: c(person(given = "Chu", family = "Pan", role = c("aut", "cre"), email = "chu.pan@hnu.edu.cn"))
 Description: This package consolidates a comprehensive set of information measurements, encompassing mutual information, conditional mutual information, interaction information, partial information decomposition, and part mutual information.
 License: Artistic-2.0
